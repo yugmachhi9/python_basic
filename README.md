@@ -1,2 +1,2 @@
 # python_basic
-this is basic projects of python
+This is basic projects of python
